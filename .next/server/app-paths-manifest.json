@@ -1,7 +1,0 @@
-{
-  "/not-found": "app/not-found.js",
-  "/page": "app/page.js",
-  "/api/chatwork/me/route": "app/api/chatwork/me/route.js",
-  "/api/chatwork/rooms/route": "app/api/chatwork/rooms/route.js",
-  "/api/chatwork/rooms/[roomId]/tasks/route": "app/api/chatwork/rooms/[roomId]/tasks/route.js"
-}
